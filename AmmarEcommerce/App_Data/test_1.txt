@@ -1,0 +1,6 @@
+1,ali,3
+2,ahmad,3
+3,king,4
+4,joker,4
+5,ammar,5
+6,wasim,5

@@ -1,0 +1,9 @@
+c:\users\amaar\documents\visual studio 2010\Projects\AmmarEcommerce\AmmarEcommerce\bin\AmmarEcommerce.dll
+c:\users\amaar\documents\visual studio 2010\Projects\AmmarEcommerce\AmmarEcommerce\bin\AmmarEcommerce.pdb
+c:\users\amaar\documents\visual studio 2010\Projects\AmmarEcommerce\AmmarEcommerce\obj\Debug\AmmarEcommerce.dll
+c:\users\amaar\documents\visual studio 2010\Projects\AmmarEcommerce\AmmarEcommerce\obj\Debug\AmmarEcommerce.pdb
+D:\SoftwareDev\AmmarEcommerce\AmmarEcommerce\bin\AmmarEcommerce.dll
+D:\SoftwareDev\AmmarEcommerce\AmmarEcommerce\bin\AmmarEcommerce.pdb
+D:\SoftwareDev\AmmarEcommerce\AmmarEcommerce\obj\Debug\AmmarEcommerce.dll
+D:\SoftwareDev\AmmarEcommerce\AmmarEcommerce\obj\Debug\AmmarEcommerce.pdb
+D:\SoftwareDev\AmmarEcommerce\AmmarEcommerce\obj\Debug\AmmarEcommerce.csprojResolveAssemblyReference.cache
